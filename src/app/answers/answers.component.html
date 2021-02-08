@@ -1,0 +1,21 @@
+  <div class="row">
+    <h2>Assesment Result</h2>
+    <hr />
+    <br />
+    <br />
+
+    <div class="float-left">
+    <h4>Total Correct Answers: {{correctAnswer}}</h4>
+    <h4>Total In Correct Answers: {{inCorrectAnswer}}</h4>
+    <h4>Total Not Attempted Answers: {{notAnswered}}</h4>
+    </div>
+  </div>
+  <div style="display: block" *ngIf="pieChartData.length > 0">
+    <canvas baseChart
+            [data]="pieChartData"
+            [labels]="pieChartLabels"
+            [chartType]="pieChartType"
+            (chartHover)="chartHovered($event)"
+            (chartClick)="chartClicked($event)"></canvas>
+  </div>
+  
