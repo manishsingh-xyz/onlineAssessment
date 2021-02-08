@@ -1,0 +1,519 @@
+{
+    "id": 1,
+    "name": "Online Assesment",
+    "description": "JavaScript Assesment (Basic Multiple Choice Questions for JavaScript Developers)",
+    "questions": [
+        {
+            "id": 1012,
+            "name": "What is the difference between let and var?",
+            "questionTypeId": 1,
+            "questionType": "JavaScript",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "let has local scope",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "let has global scope",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Both are same",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1013,
+            "name": "What is TypeScript?",
+            "questionTypeId": 1,
+            "questionType": "JavaScript",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "A Language based on Javascript",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "A Language based on Java",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "A Language based on Python",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1017,
+            "name": "What is the difference between == and === ?",
+            "questionTypeId": 1,
+            "questionType": "Javascript",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "=== throws syntex error",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "== checks values only, === checks types as well",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "=== is reference type check only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Both are same",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1018,
+            "name": "Javascript 4th Question?",
+            "questionTypeId": 1,
+            "questionType": "Javascript",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1118,
+            "name": "HTML 1st Question?",
+            "questionTypeId": 2,
+            "questionType": "HTML",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1119,
+            "name": "HTML 2nd Question?",
+            "questionTypeId": 2,
+            "questionType": "HTML",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1120,
+            "name": "HTML 3rd Question?",
+            "questionTypeId": 2,
+            "questionType": "HTML",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1121,
+            "name": "HTML 4th Question?",
+            "questionTypeId": 2,
+            "questionType": "HTML",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1048,
+            "name": "Angular 1st Question?",
+            "questionTypeId": 3,
+            "questionType": "Angular",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1049,
+            "name": "Angular 2nd Question?",
+            "questionTypeId": 3,
+            "questionType": "Angular",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1050,
+            "name": "Angular 3rd Question?",
+            "questionTypeId": 3,
+            "questionType": "Angular",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1055,
+            "name": "Angular 4th Question?",
+            "questionTypeId": 3,
+            "questionType": "Angular",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1128,
+            "name": "CSS 1st Question?",
+            "questionTypeId": 4,
+            "questionType": "CSS",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1129,
+            "name": "CSS 2nd Question?",
+            "questionTypeId": 4,
+            "questionType": "CSS",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1130,
+            "name": "CSS 3rd Question?",
+            "questionTypeId": 4,
+            "questionType": "CSS",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 1131,
+            "name": "CSS 4th Question?",
+            "questionTypeId": 4,
+            "questionType": "CSS",
+            "options": [
+                {
+                    "id": 1155,
+                    "questionId": 1010,
+                    "name": "Right",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1156,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1157,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1158,
+                    "questionId": 1010,
+                    "name": "wrong",
+                    "isAnswer": false
+                }
+            ]
+        }
+    ]
+}
